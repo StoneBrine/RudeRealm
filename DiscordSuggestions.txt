@@ -1,0 +1,10 @@
+# RudeRealm
+
+# This page is to be used for suggestions for our community, website, and discord server.  
+# If you have a suggestion for us, please add it here as a comment, on it's own line.  
+# Then, create a pull request.  I'll look it over, then if all good, will merge your request.  
+
+# This should give us better tracking of our suggestions, but please still feel free to use
+# '#suggestions' in the Discord Server.  
+
+# Please note, for our newer members, this could be used as your first PR *PULL REQUEST*
